@@ -34,6 +34,7 @@ def avg(x):
     else: 
         average=(sum/(n-absent(x)))
 
+        
     return (average)
 print(avg(x))
 
